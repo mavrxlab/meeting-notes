@@ -23,4 +23,9 @@ Notes, agendas, and minutes from various lab-related meetings.
 1. Make sure you have that new branch checked out.
     1. In GitKraken, you can just click `Branch`, pick the name, and you'll automatically check it out.
 1. Make whatever updates you need to make. Save them, then `Commit` them to your newly checked-out branch.
-1. 
+1. `Push` this to the remote version of your new branch. Now you should have a local and remote version.
+1. Create a `Pull Request` from your `XX-YYYY-MM-DD` branch to `main`. 
+1. Choose `ryanstraight` in the list of Assignees.
+1. Type some details about the PR in the Comment area.
+1. Click `Create pull request`.
+
