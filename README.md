@@ -4,6 +4,11 @@ Notes, agendas, and minutes from various lab-related meetings.
 
 ## 2022
 
+### February
+
++ [2022-02-15](/2022/02/2022-02-15.md)
+
+
 ### January
 
 + [2022-01-18](/2022/01/2022-01-18.md)
